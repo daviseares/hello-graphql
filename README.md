@@ -20,7 +20,7 @@
   <img alt="Home" src=".github/dashboard.png" width="70%">
 </p>
 <p align="center">
- <a href="" target="_blank">See the video</a>
+ <a href="https://youtu.be/ymoFRCzP-MQ" target="_blank">See the video</a>
 </p>
 
 ## 🚀 Tecnologias
